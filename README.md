@@ -22,8 +22,7 @@ Once EXPO is installed in the smart phone, the users are able to use these techn
 
 
 ## Images
-![User](user.png)
-![icon](icon.png)
+
 
 ## Contributions
 Pull requests are welcome for constructive updates. Require update tests as appropriate beforehand 
